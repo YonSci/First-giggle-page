@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Link](https://github.com/YonSci/Beamer-Tutorial)
+[Beamer-Tutorial](https://github.com/YonSci/Beamer-Tutorial)
 
 ### Jekyll Themes
 
